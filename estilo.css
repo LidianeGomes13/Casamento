@@ -1,0 +1,31 @@
+body {
+text-align: center;
+font-weight: bold;
+color: white;
+display: inline-flex;
+background-image:url(PLANO\ DE\ FUNDO.jpg);
+}
+h2 {
+.container {
+position: relative;
+.container {
+    word-break: normal;
+}
+}
+
+}
+.text {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+z-index: 1;
+}
+
+.container image {
+max-width: 200px;
+}
+a {
+color: white;
+font: 16px;
+}
